@@ -1,16 +1,19 @@
 <div align="center">
 
-<img src="./banner-git.jpg" width="100%">
-
-<br><br>
-
-# FROSTIXX
-
-**CREATOR · BUILDER · EXPERIMENTER**
+<img src="./banner-git.jpg" width="100%" alt="Frostixx">
 
 <br>
 
-> **I have an idea. I build it. That's pretty much it.**
+<h1>FROSTIXX</h1>
+
+<p>
+  <strong>CREATOR · BUILDER · EXPERIMENTER</strong>
+</p>
+
+<p>
+  I have an idea.<br>
+  I build it. That's pretty much it.
+</p>
 
 <br>
 
@@ -18,28 +21,33 @@
 
 ---
 
-## ✦ ABOUT
+<h2>✦ ABOUT</h2>
 
-I'm **Frostixx**.
+<p>
+I'm <strong>Frostixx</strong>.
+</p>
 
-I like creating things of all kinds — from small tools and experiments
-to mods, websites, game-related projects and completely random ideas.
+<p>
+I like creating things of all kinds — small tools, experiments,
+mods, websites, game-related projects and whatever else I find interesting.
+</p>
 
-I don't really stick to one direction.
-
-**If something seems interesting, I want to build it.**
+<p>
+I don't really stick to one direction.<br>
+<strong>If something seems interesting, I want to build it.</strong>
+</p>
 
 ---
 
-## ✦ RIGHT NOW
+<h2>✦ RIGHT NOW</h2>
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-### 🐍
+<strong>🐍 LEARNING</strong>
 
-**LEARNING**
+<br><br>
 
 Python
 
@@ -47,9 +55,9 @@ Python
 
 <td align="center" width="33%">
 
-### 🤖
+<strong>🤖 USING</strong>
 
-**USING**
+<br><br>
 
 AI-assisted development
 
@@ -57,69 +65,91 @@ AI-assisted development
 
 <td align="center" width="33%">
 
-### 💡
+<strong>💡 BUILDING</strong>
 
-**DOING**
+<br><br>
 
-Turning ideas into projects
+Ideas into projects
 
 </td>
 </tr>
 </table>
 
+<br>
+
 ---
 
-## ✦ PROJECTS
+<h2>✦ PROJECTS</h2>
 
+<p>
 I build a lot of different things.
+</p>
 
-Some projects are small experiments.
-Some become useful tools.
+<p>
+Some start as small experiments.<br>
+Some become useful tools.<br>
 Some grow into something much bigger.
+</p>
 
-**You can find everything I'm working on in my repositories.**
-
-<br>
-
-<div align="center">
-
-**[ VIEW PROJECTS → ]**
-
-</div>
-
----
-
-## ✦ FIND ME
+<p>
+<strong>Everything I'm working on lives in my repositories.</strong>
+</p>
 
 <br>
 
 <div align="center">
 
-<a href="DISCORD_LINK">
-<kbd>　◈ DISCORD　</kbd>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="YOUTUBE_LINK">
-<kbd>　▶ YOUTUBE　</kbd>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="MODRINTH_LINK">
-<kbd>　◆ MODRINTH　</kbd>
+<a href="https://github.com/frostixx-official?tab=repositories">
+  <strong>VIEW ALL PROJECTS →</strong>
 </a>
 
 </div>
 
-<br><br>
+<br>
 
 ---
 
+<h2>✦ FIND ME</h2>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center">
+<a href="https://discord.com/users/1356324367025443028">
+<strong>◈ DISCORD</strong>
+</a>
+</td>
+
+<td width="35"></td>
+
+<td align="center">
+<a href="https://www.youtube.com/@frostixx_official">
+<strong>▶ YOUTUBE</strong>
+</a>
+</td>
+
+<td width="35"></td>
+
+<td align="center">
+<a href="https://modrinth.com/user/Frostixx">
+<strong>◆ MODRINTH</strong>
+</a>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
 <div align="center">
 
-### BUILD THINGS YOU WANT TO SEE EXIST.
+<h3>BUILD THINGS YOU WANT TO SEE EXIST.</h3>
 
 <br>
 
