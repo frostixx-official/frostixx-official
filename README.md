@@ -6,7 +6,7 @@
 
 # Frostixx
 
-### Creator · Developer · Builder
+**Creator · Developer · Builder**
 
 I build things I find useful, interesting or just fun.
 
@@ -14,86 +14,52 @@ I build things I find useful, interesting or just fun.
 
 </div>
 
----
-
 ## 👋 About Me
 
-I'm **Frostixx**.
+I'm **Frostixx** — I like turning ideas into real projects.
 
-I like turning ideas into real projects — from small useful
-Windows utilities and Minecraft mods to bigger experiments
-and game projects.
+I build small useful tools, Minecraft mods, game-related projects
+and different experiments. I mostly learn by actually building things
+and use AI as a development tool along the way.
 
-I learn by building, experimenting and using AI as a development
-tool to turn ideas into working projects.
-
----
+<br>
 
 ## 🛠️ What I Build
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🧩 Windows Utilities
+| 🧩 Windows Utilities | ⛏️ Minecraft |
+|:---:|:---:|
+| Small useful tools | Mods & experiments |
 
-Small tools and utilities designed to make everyday tasks easier.
+| 🎮 Game Projects | 🧪 Experiments |
+|:---:|:---:|
+| Game-related ideas | Random projects & prototypes |
 
-</td>
-<td width="50%">
+</div>
 
-### ⛏️ Minecraft
-
-Mods, tools and experiments for Minecraft.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎮 Game Projects
-
-Experiments, ideas and projects related to games.
-
-</td>
-<td width="50%">
-
-### 🧪 Experiments
-
-Small projects, prototypes and random ideas.
-
-</td>
-</tr>
-</table>
-
----
+<br>
 
 ## 📚 Currently Learning
 
-<p align="left">
-🐍 <b>Python</b><br>
-🤖 <b>AI-assisted development</b>
-</p>
+<div align="center">
 
----
+🐍 **Python** &nbsp;&nbsp; · &nbsp;&nbsp; 🤖 **AI-assisted development**
+
+</div>
+
+<br>
 
 ## 🚀 Projects
 
-Most of my projects start as a simple idea.
+I build projects whenever I have an idea worth exploring.
 
-Some become useful tools.
-Some become experiments.
-Some become something much bigger.
+**Check out my repositories below.**
 
-You can find my current projects in my repositories.
-
----
+<br>
 
 <div align="center">
 
-### Thanks for stopping by 👋
-
-**Frostixx**
+*Building things, one idea at a time.*
 
 </div>
