@@ -1,65 +1,57 @@
 <div align="center">
 
-<img src="./banner.jpg" width="100%">
+<img src="./banner-git.jpg" width="100%">
 
 <br><br>
 
 # Frostixx
 
-**Creator · Developer · Builder**
+### I have an idea. I build it. That's pretty much it.
 
-I build things I find useful, interesting or just fun.
+I like creating things of all kinds — small tools, experiments,
+mods, websites, game-related projects and whatever else I find interesting.
 
-<br>
-
-</div>
-
-## 👋 About Me
-
-I'm **Frostixx** — I like turning ideas into real projects.
-
-I build small useful tools, Minecraft mods, game-related projects
-and different experiments. I mostly learn by actually building things
-and use AI as a development tool along the way.
+I don't really limit myself to one type of project.
+If I have an idea, I try to turn it into something real.
 
 <br>
 
-## 🛠️ What I Build
+---
 
-<div align="center">
+## ⚡ Currently
 
-| 🧩 Windows Utilities | ⛏️ Minecraft |
-|:---:|:---:|
-| Small useful tools | Mods & experiments |
+🐍 **Learning Python** &nbsp; · &nbsp; 🤖 **Building with AI** &nbsp; · &nbsp; 💡 **Turning ideas into projects**
 
-| 🎮 Game Projects | 🧪 Experiments |
-|:---:|:---:|
-| Game-related ideas | Random projects & prototypes |
-
-</div>
-
-<br>
-
-## 📚 Currently Learning
-
-<div align="center">
-
-🐍 **Python** &nbsp;&nbsp; · &nbsp;&nbsp; 🤖 **AI-assisted development**
-
-</div>
-
-<br>
+---
 
 ## 🚀 Projects
 
-I build projects whenever I have an idea worth exploring.
+I build all kinds of things — from small experiments and useful tools
+to bigger projects that take much more time to bring to life.
 
-**Check out my repositories below.**
+My repositories are where I keep the things I'm currently building,
+testing and experimenting with.
 
 <br>
 
-<div align="center">
+[ **Explore my repositories →** ](https://github.com/frostixx-official?tab=repositories)
 
-*Building things, one idea at a time.*
+---
+
+## 🌐 Find Me
+
+[ **Discord** ](https://discord.com/users/1356324367025443028)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+[ **YouTube** ](https://www.youtube.com/@frostixx_official)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+[ **Modrinth** ](https://modrinth.com/user/Frostixx)
+
+<br><br>
+
+---
+
+### KEEP BUILDING.
+
+<sub>Frostixx</sub>
 
 </div>
