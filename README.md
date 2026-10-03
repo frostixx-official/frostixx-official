@@ -4,54 +4,125 @@
 
 <br><br>
 
-# Frostixx
+# FROSTIXX
 
-### I have an idea. I build it. That's pretty much it.
-
-I like creating things of all kinds — small tools, experiments,
-mods, websites, game-related projects and whatever else I find interesting.
-
-I don't really limit myself to one type of project.
-If I have an idea, I try to turn it into something real.
+**CREATOR · BUILDER · EXPERIMENTER**
 
 <br>
 
----
-
-## ⚡ Currently
-
-🐍 **Learning Python** &nbsp; · &nbsp; 🤖 **Building with AI** &nbsp; · &nbsp; 💡 **Turning ideas into projects**
-
----
-
-## 🚀 Projects
-
-I build all kinds of things — from small experiments and useful tools
-to bigger projects that take much more time to bring to life.
-
-My repositories are where I keep the things I'm currently building,
-testing and experimenting with.
+> **I have an idea. I build it. That's pretty much it.**
 
 <br>
 
-[ **Explore my repositories →** ](https://github.com/frostixx-official?tab=repositories)
+</div>
 
 ---
 
-## 🌐 Find Me
+## ✦ ABOUT
 
-[ **Discord** ](https://discord.com/users/1356324367025443028)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-[ **YouTube** ](https://www.youtube.com/@frostixx_official)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-[ **Modrinth** ](https://modrinth.com/user/Frostixx)
+I'm **Frostixx**.
+
+I like creating things of all kinds — from small tools and experiments
+to mods, websites, game-related projects and completely random ideas.
+
+I don't really stick to one direction.
+
+**If something seems interesting, I want to build it.**
+
+---
+
+## ✦ RIGHT NOW
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🐍
+
+**LEARNING**
+
+Python
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖
+
+**USING**
+
+AI-assisted development
+
+</td>
+
+<td align="center" width="33%">
+
+### 💡
+
+**DOING**
+
+Turning ideas into projects
+
+</td>
+</tr>
+</table>
+
+---
+
+## ✦ PROJECTS
+
+I build a lot of different things.
+
+Some projects are small experiments.
+Some become useful tools.
+Some grow into something much bigger.
+
+**You can find everything I'm working on in my repositories.**
+
+<br>
+
+<div align="center">
+
+**[ VIEW PROJECTS → ]**
+
+</div>
+
+---
+
+## ✦ FIND ME
+
+<br>
+
+<div align="center">
+
+<a href="DISCORD_LINK">
+<kbd>　◈ DISCORD　</kbd>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="YOUTUBE_LINK">
+<kbd>　▶ YOUTUBE　</kbd>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="MODRINTH_LINK">
+<kbd>　◆ MODRINTH　</kbd>
+</a>
+
+</div>
 
 <br><br>
 
 ---
 
-### KEEP BUILDING.
+<div align="center">
 
-<sub>Frostixx</sub>
+### BUILD THINGS YOU WANT TO SEE EXIST.
+
+<br>
+
+<sub>Frostixx · 2026</sub>
 
 </div>
