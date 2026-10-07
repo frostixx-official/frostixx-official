@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner-git.jpg" width="100%" alt="Frostixx">
+<img src="./banner.git.jpg" width="100%" alt="Frostixx">
 
 <br><br>
 
